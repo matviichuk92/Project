@@ -1,0 +1,4 @@
+.idea/*
+*.iml
+targer/*
+git remote add origin https://github.com/matviichuk92/Project.git
